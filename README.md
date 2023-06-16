@@ -58,7 +58,7 @@ This project focuses on predicting Airbnb rental prices using a linear regressio
 
 The project aims to determine the influence of neighborhood features on Airbnb rental prices. By analyzing the coefficients obtained from the linear regression model, we can identify the neighborhoods that contribute the most to the predicted prices. The bar plot visualizes the coefficients, with darker colors indicating higher coefficients.
 
-![Neighborhood Coefficients](Question4-2 (Avilability).png)
+![Neighborhood Coefficients]("main/Question4-2 (Avilability).png")
 
 In the plot, each bar represents a neighborhood feature, and the height of the bar represents the coefficient. Positive coefficients indicate that the neighborhood positively influences the price, while negative coefficients indicate a negative influence. The bar plot allows us to identify the neighborhoods that have the most significant impact on Airbnb rental prices.
 
